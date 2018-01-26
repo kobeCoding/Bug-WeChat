@@ -1,4 +1,6 @@
 //index.js
+// 主页面 含游戏主体内容
+
 //获取应用实例
 const app = getApp()
 
